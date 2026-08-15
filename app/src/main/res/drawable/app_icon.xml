@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Warm badge background. -->
+    <path
+        android:fillColor="#FFF8E7"
+        android:pathData="M54,4 A50,50 0,1 1,54,104 A50,50 0,1 1,54,4 Z" />
+
+    <!-- Five visible tentacles imply the remaining arms behind the character. -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M34,69 C26,75 28,87 19,90"
+        android:strokeColor="#2E7D32"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeWidth="10" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M43,73 C38,80 41,90 35,95"
+        android:strokeColor="#2E7D32"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeWidth="10" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,75 C54,83 54,90 54,96"
+        android:strokeColor="#2E7D32"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeWidth="10" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M65,73 C70,80 67,90 73,95"
+        android:strokeColor="#2E7D32"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeWidth="10" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M74,69 C82,75 80,87 89,90"
+        android:strokeColor="#2E7D32"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeWidth="10" />
+
+    <!-- Octopus mantle / broccoli stalk. -->
+    <path
+        android:fillColor="#388E3C"
+        android:pathData="M27,41 C27,32 34,27 43,27 L65,27 C74,27 81,33 81,42 L81,66 C81,79 70,87 54,87 C38,87 27,79 27,66 Z" />
+
+    <!-- Broccoli crown. -->
+    <path
+        android:fillColor="#7CB342"
+        android:pathData="M17,45 C12,42 11,36 14,31 C17,27 21,25 26,26 C25,19 30,14 37,13 C41,12 44,14 47,17 C50,10 59,9 64,14 C67,16 69,19 69,22 C76,19 84,22 87,29 C93,30 96,36 94,42 C93,47 89,50 84,50 L24,50 C21,50 19,48 17,45 Z" />
+
+    <!-- Subtle broccoli texture. -->
+    <path
+        android:fillAlpha="0.28"
+        android:fillColor="#33691E"
+        android:pathData="M34,22 A5,5 0,1 1,34,32 A5,5 0,1 1,34,22 Z M54,15 A6,6 0,1 1,54,27 A6,6 0,1 1,54,15 Z M76,29 A5,5 0,1 1,76,39 A5,5 0,1 1,76,29 Z" />
+
+    <!-- Closed, laughing eyes. -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M37,58 C40,53 45,53 49,58"
+        android:strokeColor="#15391F"
+        android:strokeLineCap="round"
+        android:strokeWidth="3.5" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M59,58 C63,53 68,53 71,58"
+        android:strokeColor="#15391F"
+        android:strokeLineCap="round"
+        android:strokeWidth="3.5" />
+
+    <!-- Open laugh, teeth, and tongue. -->
+    <path
+        android:fillColor="#15391F"
+        android:pathData="M40,62 C44,66 49,68 54,68 C59,68 64,66 68,62 C67,75 62,82 54,82 C46,82 41,75 40,62 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,65 C47,67 50,68 54,68 C58,68 61,67 64,65 C61,70 47,70 44,65 Z" />
+    <path
+        android:fillColor="#FF6F61"
+        android:pathData="M47,76 C49,73 52,72 54,72 C57,72 60,73 61,76 C59,79 57,80 54,80 C51,80 49,79 47,76 Z" />
+
+</vector>
